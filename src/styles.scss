@@ -16,3 +16,10 @@
 @import "./sass/sections/contact";
 @import "./sass/sections/hero";
 @import "./sass/sections/projects";
+#achievements ul.about-wrapper__info-text {
+  font-size: 48px;
+  font-weight: bold;
+  line-height: 1.8;
+  padding-left: 1.5rem; /* optional: adds spacing to left */
+  list-style: none;     /* optional: removes default bullet */
+}
